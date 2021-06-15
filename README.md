@@ -1,6 +1,6 @@
 **Machine Learning Project: Recommender System**
 
-Daniel Marchán, Francisco Álvarez, Yijie Hsieh, Jaime Fanjul
+Authors: Daniel Marchán, Francisco Álvarez, Yijie Hsieh, Jaime Fanjul
 
 **Summary**
 
@@ -135,15 +135,15 @@ Finally the predictions of the 4 models are saved in the corresponding .csv file
 
 **Appendix**
 
-<div id="graph1">Graph 1: Countplot of categorical variable: xti\_empleado
+<div id="graph1">Graph 1: Countplot of categorical variable: xti_empleado
 
 ![](images/graph1.png)</div>
 
-<div id="graph2">Graph 2: Countplot of categorical variable: xti\_rel
+<div id="graph2">Graph 2: Countplot of categorical variable: xti_rel
 
 ![](images/graph2.png)</div>
 
-<div id="graph3">Graph 3: Countplot of categorical variable: xti\_rel\_1mes
+<div id="graph3">Graph 3: Countplot of categorical variable: xti_rel_1mes
 
 ![](images/graph3.png)</div>
 
@@ -159,7 +159,7 @@ Finally the predictions of the 4 models are saved in the corresponding .csv file
 
 ![](images/graph6.png)</div>
 
-<div id="graph7">Graph 7: Missing Values after running smart\_imputer function
+<div id="graph7">Graph 7: Missing Values after running smart imputer function
 
 ![](images/graph7.png)</div>
 
